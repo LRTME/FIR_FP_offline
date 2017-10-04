@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;FIR_filter_offline/source/FIR_f32.asm&apos; to &apos;FIR_f32_old.asm&apos;" description="Rename resource &apos;FIR_f32.asm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="source/FIR_f32.asm" name="FIR_f32_old.asm" stamp="1507121181832" updateReferences="true"/>
-</session>
