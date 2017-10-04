@@ -1,0 +1,135 @@
+# FIXED
+
+source/main.obj: ../source/main.c
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/main.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/define.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stddef.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdbool.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdint.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F28x_Project.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Cla_typedefs.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_device.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/assert.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/linkage.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdarg.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stddef.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_adc.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_analogsubsys.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cla.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cmpss.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cputimer.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dac.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dcsm.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dma.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_ecap.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_emif.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_epwm.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_epwm_xbar.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_eqep.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_flash.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_gpio.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_i2c.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_input_xbar.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_ipc.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_mcbsp.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_memconfig.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_nmiintrupt.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_output_xbar.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_piectrl.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_pievect.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sci.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sdfm.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_spi.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sysctrl.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_upp.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_xbar.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_xint.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Examples.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_GlobalPrototypes.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cputimervars.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Cla_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_EPwm_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Adc_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Emif_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Gpio_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_I2c_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Ipc_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Pie_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Dma_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_SysCtrl_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Upp_defines.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_defaultisr.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/math.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/_defs.h
+source/main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/float.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/TIC_toc.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/TIC_toc_1.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/fpu_filter.h
+source/main.obj: D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/fpu_types.h
+
+../source/main.c: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/main.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/define.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stddef.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdbool.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdint.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F28x_Project.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Cla_typedefs.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_device.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/assert.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/linkage.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stdarg.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/stddef.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_adc.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_analogsubsys.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cla.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cmpss.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cputimer.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dac.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dcsm.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_dma.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_ecap.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_emif.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_epwm.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_epwm_xbar.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_eqep.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_flash.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_gpio.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_i2c.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_input_xbar.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_ipc.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_mcbsp.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_memconfig.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_nmiintrupt.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_output_xbar.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_piectrl.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_pievect.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sci.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sdfm.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_spi.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_sysctrl.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_upp.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_xbar.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_xint.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Examples.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_GlobalPrototypes.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_cputimervars.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Cla_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_EPwm_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Adc_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Emif_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Gpio_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_I2c_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Ipc_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Pie_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Dma_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_SysCtrl_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_Upp_defines.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/device/F2837xD_defaultisr.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/math.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/_defs.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_15.12.4.LTS/include/float.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/TIC_toc.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/TIC_toc_1.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/fpu_filter.h: 
+D:/DenisS/3_Doktorat/Raziskovanje/Projekti/2017_8_2_Aktivni_usmernik/FIR_filter_problems_solved/FIR_FP_offline/FIR_filter_offline/include/fpu_types.h: 
