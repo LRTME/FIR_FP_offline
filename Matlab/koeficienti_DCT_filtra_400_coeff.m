@@ -5,7 +5,7 @@ clc;
 %% uporabniški vmesnik
 graficni_prikaz = 1; 
 izpis_koeficientov = 1;
-zamenjaj_vrstni_red_koeficientov = 1;
+zamenjaj_vrstni_red_koeficientov = 1; % zaradi posebne izvedbe konvolucije v C-ju
 
 % št. vzorcev v periodi
 N = 400; % 400
